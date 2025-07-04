@@ -30,9 +30,9 @@ o	Routing and State Management (Frontend): react-router-dom for navigation and c
 o	API Communication: fetch API for asynchronous requests between the frontend and backend, with CORS configured for local development.
 This application serves as a practical demonstration of how AI can be integrated into educational tools to create personalized and efficient learning experiences. It aims to empower users by transforming passive text consumption into an active and engaging study method.
 
-Output:
-Sign Up:
 
+Sign Up:
+![image alt]()
  
 
 Login:
