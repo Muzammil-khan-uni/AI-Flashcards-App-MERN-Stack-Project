@@ -42,47 +42,47 @@ Login:
 
 Dashboard:
 
- ![image alt]()
+ ![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/Dashboard.png)
  
-![image alt]()
+![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/Dashboard2.png)
 
 
 
 
 Write any topic or word or paragraph & Select the difficulty level
 
- ![image alt]()
+ ![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/difficulty%20level.png)
 
 Then click on Generate Flashcards Button
 
- ![image alt]()
+ ![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/Generate%20Flashcards%20Button.png)
 
 Then see Flashcard Progress
 
- ![image alt]()
+ ![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/Flashcard%20Progress.png)
 
 
 & Scroll down to see Flashcards
 
  
-![image alt]()
+![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/Flashcards.png)
 
 
 If you Like or want to save any Flashcards click on heart 
 
- ![image alt]()
+ ![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/to%20save%20any%20Flashcards%20click%20on%20heart.png)
 
 Then see these Flashcards in Favorite Whenever you want
 
-![image alt]()
+![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/Favorite.png)
  
 You see different difficulty level Flashcards in different colors like Easy in Green, Medium in Yellow, and Hard in Red color
 
-![image alt]() 
+![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/different%20colors.png) 
  
 
 Dark mode
 
- ![image alt]()
- ![image alt]()
+ ![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/Dark%20mode.png)
+ ![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/Dark%20mode2.png)
 
