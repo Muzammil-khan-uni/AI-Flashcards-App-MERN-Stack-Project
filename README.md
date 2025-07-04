@@ -3,6 +3,7 @@
 
 The traditional method of creating flashcards, while effective for active recall and spaced repetition, can be a time-consuming and laborious process. In an age where information is abundant and time is a premium, a more efficient way to generate these study tools is highly desirable. This project, the AI-Powered Flashcard Generation Application, addresses this need by integrating cutting-edge artificial intelligence to automate and streamline the creation of flashcards.
 The core objective of this application is to provide users with a seamless experience for transforming blocks of text into structured, reviewable flashcards. By harnessing the capabilities of Google's Gemini API the system can intelligently parse input material and generate relevant question-and-answer pairs, significantly reducing the manual effort typically involved.
+
 Key functionalities and components of the application include:
 1.	User Authentication and Management:
 o	Secure user registration with username, email, and hashed passwords (using bcryptjs).
@@ -29,6 +30,7 @@ o	AI Integration: @google/generative-ai SDK for interacting with the Gemini API.
 o	Routing and State Management (Frontend): react-router-dom for navigation and component state for UI updates.
 o	API Communication: fetch API for asynchronous requests between the frontend and backend, with CORS configured for local development.
 This application serves as a practical demonstration of how AI can be integrated into educational tools to create personalized and efficient learning experiences. It aims to empower users by transforming passive text consumption into an active and engaging study method.
+
 
 
 Sign Up:
