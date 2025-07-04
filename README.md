@@ -37,53 +37,51 @@ Sign Up:
 
 Login:
 
- 
+ ![image alt]()
 
 Dashboard:
 
+ ![image alt]()
  
- 
-
+![image alt]()
 
 
 
 
 Write any topic or word or paragraph & Select the difficulty level
 
- 
+ ![image alt]()
 
 Then click on Generate Flashcards Button
 
- 
+ ![image alt]()
 
 Then see Flashcard Progress
 
- 
+ ![image alt]()
 
 
 & Scroll down to see Flashcards
 
  
-
+![image alt]()
 
 
 If you Like or want to save any Flashcards click on heart 
 
- 
+ ![image alt]()
 
 Then see these Flashcards in Favorite Whenever you want
 
+![image alt]()
  
 You see different difficulty level Flashcards in different colors like Easy in Green, Medium in Yellow, and Hard in Red color
 
+![image alt]() 
  
- 
-
-
 
 Dark mode
 
- 
- 
- 
+ ![image alt]()
+ ![image alt]()
 
