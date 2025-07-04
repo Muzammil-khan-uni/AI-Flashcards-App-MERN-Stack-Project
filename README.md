@@ -32,7 +32,8 @@ This application serves as a practical demonstration of how AI can be integrated
 
 
 Sign Up:
-![image alt]()
+
+![image alt](https://github.com/Muzammil-khan-uni/AI-Flashcards-App/blob/main/Screenshot/signup.png?raw=true)
  
 
 Login:
